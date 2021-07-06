@@ -1,0 +1,79 @@
+h1{
+    color:#1f1f14;
+    font-size: 40px; 
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h4{
+    font-weight: 400;
+}
+.skip-color{
+    color: orangered;
+}
+.color-change{
+    color: gray;
+}
+section{
+    display: flex;
+}
+.first-part{
+    width: 50%;
+    padding: 5%;
+}
+.first-part img{
+    width: 80%;
+}
+.order-button{
+    text-decoration: none;
+    padding: 10px 20PX;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: wheat;
+    font-weight: 700;
+    border-radius: 20px;
+}
+.middle-container{
+    background-image: url(images/frame.jpg);
+    background-size: cover;
+    padding-right: 3%;
+}
+#recepie-list{
+    text-align: center;
+}
+.column{
+    float: left;
+    width: 29%;
+    margin-right:2%;
+    margin-left:2%;
+    padding: 20px 20px 10px 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+}
+.column img{
+    border-radius: 20px;
+}
+.discount-color{
+    color: red;
+    font-weight: 700;
+}
+.bottom-container{
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color: black;
+    padding: 5%;
+}
+.bottom-text-color{
+    color: white;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+.billing-section-conatainer{
+    padding: 10%;
+    
+}  
