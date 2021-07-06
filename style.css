@@ -74,6 +74,8 @@ input[type=text] {
     box-sizing: border-box;
   }
 .billing-section-conatainer{
-    padding: 10%;
+    border: 5px solid black;
+    padding: 5%;
+    margin: 10px;
     
 }  
